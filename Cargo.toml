@@ -1,5 +1,8 @@
+# SPDX-FileCopyrightText: 2025 Revelation Team
+# SPDX-License-Identifier: MIT
+
 [package]
-name = "revelation-post"
+name = "revelation-religion"
 version = "0.1.0"
 edition = "2024"
 authors = ["Revelation Team"]

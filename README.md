@@ -1,4 +1,10 @@
-# revelation-post
+<!--
+SPDX-FileCopyrightText: 2025 Revelation Team
+
+SPDX-License-Identifier: MIT
+-->
+
+# revelation-religion
 
 Post/feed domain for the Revelation project.
 
